@@ -1,0 +1,28 @@
+{
+    "code": "200",
+    "data": [{
+            "name": "小美",
+            "age": 18,
+            "avatar": "http://blog.zhaoliang5156.cn/api/images/student_2019_08_01.jpg",
+            "pay": "请支付18元获取联系方式"
+        },
+        {
+            "name": "小美的妹妹",
+            "age": 15,
+            "avatar": "http://blog.zhaoliang5156.cn/api/images/student_2019_08_01.jpg",
+            "pay": "请支付15元获取联系方式"
+        },
+        {
+            "name": "小美的姐姐",
+            "age": 21,
+            "avatar": "http://blog.zhaoliang5156.cn/api/images/student_2019_08_01.jpg",
+            "pay": "请支付21元获取联系方式"
+        },
+        {
+            "name": "小美的妈妈",
+            "age": 42,
+            "avatar": "http://blog.zhaoliang5156.cn/api/images/student_2019_08_01.jpg",
+            "pay": "请支付42元获取联系方式"
+        }
+    ]
+}
